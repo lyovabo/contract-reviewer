@@ -1,0 +1,21 @@
+node_modules/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# API runtime data (SQLite file + WAL)
+api/data/
+*.db
+*.db-wal
+*.db-shm
+
+# Next.js
+web/.next/
+web/out/
+web/next-env.d.ts
+*.tsbuildinfo
+
+# Machine-specific dev-server config
+.claude/launch.json
+.claude/settings.local.json

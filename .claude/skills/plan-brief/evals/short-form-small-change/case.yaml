@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: short-form-small-change
+expected_outcome: |
+  A short-form plan: Goal, Why, Where and Done when lines, one step that the main
+  session runs, no phases, sub-sessions or plan branch. The step changes the API
+  route and updates the README's Endpoints section in the same step, names its
+  files, and has a Review line and Done criteria with commands from CLAUDE.md.

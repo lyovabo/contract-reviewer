@@ -1,0 +1,10 @@
+{
+  "name": "contract-reviewer",
+  "private": true,
+  "description": "Convenience scripts; each package installs and runs on its own (see README).",
+  "scripts": {
+    "install:all": "npm --prefix api install && npm --prefix web install",
+    "test": "npm --prefix api test && npm --prefix web test",
+    "check": "npm --prefix api run typecheck && npm --prefix web run typecheck && npm --prefix web run lint"
+  }
+}

@@ -1,0 +1,746 @@
+[
+  {
+    "id": "781cb31d-2941-4006-a12e-1269022a1c7c",
+    "title": "Non-disclosure agreement — Halden Robotics AB",
+    "type": "nda",
+    "pages": 5,
+    "uploadedAt": "2026-09-02T09:14:00Z",
+    "uploadedBy": "7659a86f-ed99-45d3-8aa0-6d38a8a8a221",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "2.1",
+        "title": "Protection runs one way only",
+        "severity": "high",
+        "excerpt": "The Recipient shall keep confidential all Confidential Information disclosed by Halden Robotics AB.",
+        "explanation": "The client will also share its pricing and product plans during the talks, but only Halden's information is protected. Make the agreement mutual, so both sides owe the same duties."
+      },
+      {
+        "clause": "6.3",
+        "title": "Residuals clause lets the other side reuse ideas",
+        "severity": "medium",
+        "excerpt": "Nothing in this Agreement restricts the use of information retained in the unaided memory of Halden's personnel.",
+        "explanation": "Halden's staff may reuse anything they remember from the talks, including the client's know-how. Delete it, or limit it to general skills and exclude source code and trade secrets."
+      },
+      {
+        "clause": null,
+        "title": "No duty to return or destroy information",
+        "severity": "low",
+        "excerpt": null,
+        "explanation": "The agreement never says what happens to the documents when the talks end. Add an obligation to return or destroy them on request, with a written confirmation."
+      }
+    ]
+  },
+  {
+    "id": "c6e11de5-6cfb-476f-946a-f81abd749cc0",
+    "title": "Office lease — 27 Albion Quay, Bristol",
+    "type": "lease",
+    "pages": 21,
+    "uploadedAt": "2026-09-04T15:20:00Z",
+    "uploadedBy": "9e13ae7a-33c5-4058-9264-b23203b4c1ff",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "9.2",
+        "title": "Tenant pays for all structural repairs",
+        "severity": "high",
+        "excerpt": "The Tenant shall keep the Premises, including the roof, foundations and main structure, in good and substantial repair.",
+        "explanation": "In a lease of part of a building, structural repairs are normally the landlord's job. Limit the tenant's duty to the interior and exclude the roof, foundations and main structure."
+      },
+      {
+        "clause": "4.1",
+        "title": "Upward-only rent review",
+        "severity": "medium",
+        "excerpt": "The rent shall be reviewed every third year and shall not be less than the rent payable immediately before the review date.",
+        "explanation": "An upward-only review means the rent can never fall, even when the market does. Ask for an open-market review that can go both ways, or a cap and a collar."
+      }
+    ]
+  },
+  {
+    "id": "361e1bda-7cf6-430e-85f6-a76dda10f9d9",
+    "title": "Office lease — 27 Albion Quay, Bristol",
+    "type": "lease",
+    "pages": 22,
+    "uploadedAt": "2026-09-29T10:05:00Z",
+    "uploadedBy": "9e13ae7a-33c5-4058-9264-b23203b4c1ff",
+    "supersedes": "c6e11de5-6cfb-476f-946a-f81abd749cc0",
+    "findings": [
+      {
+        "clause": "17.2",
+        "title": "Landlord can end the lease to redevelop",
+        "severity": "high",
+        "excerpt": "The Landlord may terminate this Lease on six months' notice if it intends to redevelop the Building.",
+        "explanation": "A redevelopment break can force the client out of its office at short notice. Ask for no break in the first five years, at least twelve months' notice and compensation for fit-out costs."
+      },
+      {
+        "clause": "4.1",
+        "title": "Rent indexation has no cap",
+        "severity": "medium",
+        "excerpt": "The rent shall be increased annually in line with the Consumer Price Index.",
+        "explanation": "Indexation replaces the upward-only review, but nothing limits a high-inflation year. Add a cap, for example 4% a year, and a floor of 0%."
+      },
+      {
+        "clause": "11.4",
+        "title": "Assignment needs the landlord's discretionary consent",
+        "severity": "low",
+        "excerpt": "The Tenant shall not assign this Lease without the Landlord's prior written consent, which may be withheld at its absolute discretion.",
+        "explanation": "Absolute discretion lets the landlord block a sale of the client's business. Change it to consent not to be unreasonably withheld, and allow assignment within the client's group without consent."
+      }
+    ]
+  },
+  {
+    "id": "cf1031cd-b9d5-4a2c-b074-be962bd50657",
+    "title": "Employment contract — Head of Data Engineering",
+    "type": "employment",
+    "pages": 11,
+    "uploadedAt": "2026-09-07T08:50:00Z",
+    "uploadedBy": "9827c4e1-cac8-4824-9872-b7c7f48f4e5c",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "14.1",
+        "title": "Non-compete is too broad to enforce",
+        "severity": "high",
+        "excerpt": "For 24 months after termination, the Employee shall not work for any business that competes with the Company anywhere in Europe.",
+        "explanation": "Two years across all of Europe is likely to be struck out as wider than needed, leaving the client with no restriction at all. Narrow it to 6 to 12 months and to named competitors or the markets the employee actually worked in."
+      },
+      {
+        "clause": "9.3",
+        "title": "Inventions clause covers private projects",
+        "severity": "medium",
+        "excerpt": "All inventions made by the Employee during the term of employment shall belong to the Company.",
+        "explanation": "As written, it claims side projects unrelated to the job, which strong candidates often refuse. Limit it to inventions made in the course of the duties or with company resources."
+      },
+      {
+        "clause": "6.2",
+        "title": "Unlimited overtime included in the salary",
+        "severity": "low",
+        "excerpt": "The salary covers all hours worked, including any work outside normal working hours.",
+        "explanation": "Unlimited unpaid overtime can conflict with working-time rules. State a normal weekly schedule and how extra hours are paid or recovered."
+      }
+    ]
+  },
+  {
+    "id": "502aedf7-1b9e-4089-a747-091417bca787",
+    "title": "SaaS subscription agreement — Ledgerly Cloud Ltd",
+    "type": "saas",
+    "pages": 16,
+    "uploadedAt": "2026-09-08T13:30:00Z",
+    "uploadedBy": "b5f1ce9b-6068-46c3-b93e-d4a434c3f62f",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "8.1",
+        "title": "Liability capped at one month of fees",
+        "severity": "high",
+        "excerpt": "The Supplier's total liability shall not exceed the fees paid in the month preceding the claim.",
+        "explanation": "A data loss or a long outage could cost the client far more than one month of fees. Ask for a cap of at least 12 months of fees, and a higher cap for data protection breaches."
+      },
+      {
+        "clause": "12.3",
+        "title": "Supplier can change the service without notice",
+        "severity": "medium",
+        "excerpt": "The Supplier may modify the features of the Service from time to time without notice.",
+        "explanation": "Features the client relies on could disappear mid-term. Require notice of material changes, and a right to terminate with a refund if a change reduces the service."
+      },
+      {
+        "clause": "3.4",
+        "title": "Auto-renewal with a 90-day notice window",
+        "severity": "low",
+        "excerpt": "The subscription renews automatically for successive 12-month terms unless cancelled at least 90 days before renewal.",
+        "explanation": "A 90-day window is easy to miss. Shorten it to 30 days, or ask the supplier to send a reminder before each renewal."
+      },
+      {
+        "clause": null,
+        "title": "No exit plan for the client's data",
+        "severity": "medium",
+        "excerpt": null,
+        "explanation": "Nothing says how the client gets its data back when the subscription ends, or in what format. Add an export in a standard format and at least 30 days before deletion."
+      }
+    ]
+  },
+  {
+    "id": "8bd79e84-d1bd-442a-b5cb-afdfc2d38be3",
+    "title": "Supply agreement — Vortex Polymers GmbH",
+    "type": "supply",
+    "pages": 24,
+    "uploadedAt": "2026-09-10T11:45:00Z",
+    "uploadedBy": "9e13ae7a-33c5-4058-9264-b23203b4c1ff",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "7.1",
+        "title": "No remedy for late delivery",
+        "severity": "high",
+        "excerpt": "Delivery dates are estimates only and time shall not be of the essence.",
+        "explanation": "If deliveries are late, the client's production line stops and it has no claim. Make key dates binding, add delay damages per day, and a right to buy elsewhere at the supplier's cost."
+      },
+      {
+        "clause": "5.2",
+        "title": "Supplier can raise prices on 30 days' notice",
+        "severity": "medium",
+        "excerpt": "The Supplier may adjust prices on 30 days' written notice to reflect changes in raw material costs.",
+        "explanation": "The client has no way to check or refuse an increase. Tie adjustments to a published raw-material index, cap them, and allow termination if an increase goes above the cap."
+      },
+      {
+        "clause": "15.4",
+        "title": "Defects must be reported within 14 days",
+        "severity": "low",
+        "excerpt": "Any claim for defective goods must be notified within 14 days of delivery.",
+        "explanation": "Some defects only show once the material is processed. Extend the period to 6 or 12 months, counted from discovery for hidden defects."
+      }
+    ]
+  },
+  {
+    "id": "48713320-45cf-4fad-920f-f4d27b580979",
+    "title": "Distribution agreement — Brûlerie Montclair SAS",
+    "type": "distribution",
+    "pages": 18,
+    "uploadedAt": "2026-09-11T16:10:00Z",
+    "uploadedBy": "2a8b8e3f-d544-4252-9a81-0cefdbb9ff34",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "3.1",
+        "title": "Exclusivity does not stop direct sales",
+        "severity": "high",
+        "excerpt": "The Distributor is appointed exclusive distributor in the Territory, without prejudice to the Supplier's right to sell directly to customers.",
+        "explanation": "The supplier can sell to the same customers the distributor builds up, at lower prices. Exclude direct sales in the territory, or pay the distributor a commission on them."
+      },
+      {
+        "clause": "6.2",
+        "title": "One missed target ends the agreement",
+        "severity": "medium",
+        "excerpt": "If the Distributor fails to meet the Minimum Annual Purchases, the Supplier may terminate this Agreement with immediate effect.",
+        "explanation": "A single bad year ends the relationship. Ask for a cure period, or for loss of exclusivity instead of termination."
+      },
+      {
+        "clause": "19.1",
+        "title": "No compensation on termination",
+        "severity": "low",
+        "excerpt": "Neither party shall be entitled to any compensation or indemnity upon expiry or termination of this Agreement.",
+        "explanation": "Some countries give distributors a goodwill indemnity anyway, so the clause may not hold. Agree a clear rule now, such as a buy-back of unsold stock at cost."
+      }
+    ]
+  },
+  {
+    "id": "1efd34ae-509d-48f4-9674-9ff59b8d65e1",
+    "title": "Consulting agreement — Brightline Advisory Ltd",
+    "type": "services",
+    "pages": 7,
+    "uploadedAt": "2026-09-14T09:00:00Z",
+    "uploadedBy": "7659a86f-ed99-45d3-8aa0-6d38a8a8a221",
+    "supersedes": null,
+    "findings": []
+  },
+  {
+    "id": "e54dcff9-80a3-404f-929e-22815fb37094",
+    "title": "Loan agreement — Meridian Credit Bank S.A.",
+    "type": "loan",
+    "pages": 13,
+    "uploadedAt": "2026-09-15T14:25:00Z",
+    "uploadedBy": "9827c4e1-cac8-4824-9872-b7c7f48f4e5c",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "21.1(f)",
+        "title": "Cross-default reaches any group debt",
+        "severity": "high",
+        "excerpt": "An Event of Default occurs if any Financial Indebtedness of any member of the Group is not paid when due.",
+        "explanation": "A missed payment on a small equipment lease anywhere in the group could make the whole loan repayable at once. Add a minimum amount and limit it to material subsidiaries."
+      },
+      {
+        "clause": "18.3",
+        "title": "Leverage covenant tested every month",
+        "severity": "medium",
+        "excerpt": "The Borrower shall ensure that Leverage does not exceed 3.0:1, tested on the last day of each month.",
+        "explanation": "Monthly testing leaves no room for seasonal swings. Ask for quarterly testing on a rolling 12-month basis, with a right to cure through new equity."
+      },
+      {
+        "clause": "9.4",
+        "title": "Prepayment fee for the whole term",
+        "severity": "low",
+        "excerpt": "Any voluntary prepayment shall be subject to a prepayment fee of 2% of the amount prepaid.",
+        "explanation": "The fee applies even late in the term. Step it down, for example 2% in the first year, 1% in the second and nothing after that."
+      }
+    ]
+  },
+  {
+    "id": "2e51e89b-6ee8-428e-96bd-1ef35b1d98df",
+    "title": "Shareholders' agreement — Quillon Labs B.V.",
+    "type": "shareholders",
+    "pages": 28,
+    "uploadedAt": "2026-09-17T10:40:00Z",
+    "uploadedBy": "2a8b8e3f-d544-4252-9a81-0cefdbb9ff34",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "8.2",
+        "title": "Drag-along has no minimum price",
+        "severity": "high",
+        "excerpt": "If Shareholders holding more than 50% of the Shares accept an offer, all other Shareholders shall sell their Shares on the same terms.",
+        "explanation": "The majority could force the client to sell at any price, even below what it paid. Add a minimum price or return, and raise the threshold to 75%."
+      },
+      {
+        "clause": "5.1",
+        "title": "Every board decision by simple majority",
+        "severity": "medium",
+        "excerpt": "All decisions of the Board shall be taken by a simple majority of the directors present.",
+        "explanation": "The client's director can be outvoted on everything, including new share issues and the budget. List reserved matters that need the investor director's consent."
+      },
+      {
+        "clause": "11.3",
+        "title": "Leaver price left to the board",
+        "severity": "medium",
+        "excerpt": "A Leaver shall transfer their Shares at Fair Value or at nominal value, as the Board determines.",
+        "explanation": "Letting the board pick the price invites a dispute every time a founder leaves. Define good and bad leaver cases, and the price for each."
+      },
+      {
+        "clause": null,
+        "title": "No deadlock procedure",
+        "severity": "low",
+        "excerpt": null,
+        "explanation": "Nothing says what happens if the two investor groups disagree on a key decision. Add an escalation step, then mediation, and a buy-sell option as a last resort."
+      }
+    ]
+  },
+  {
+    "id": "44b0a58e-2118-48a9-8df8-5d682f1026e1",
+    "title": "Software license agreement — Orbisoft Oy",
+    "type": "license",
+    "pages": 9,
+    "uploadedAt": "2026-09-18T12:15:00Z",
+    "uploadedBy": "3d6b497a-b7a1-4aa4-9c4b-3701b43e095a",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "4.2",
+        "title": "Named-user licences cannot be reassigned",
+        "severity": "medium",
+        "excerpt": "The licence is granted for the number of Named Users set out in the Order Form and may not be transferred between individuals.",
+        "explanation": "Staff turnover would force the client to buy new licences. Allow a named user to be reassigned when someone leaves, or once a quarter."
+      },
+      {
+        "clause": "13.1",
+        "title": "Audits at any time",
+        "severity": "low",
+        "excerpt": "The Licensor may audit the Licensee's use of the Software at any time.",
+        "explanation": "Unannounced audits disrupt the business. Limit them to once a year, with 30 days' notice, at the licensor's cost unless a material underpayment is found."
+      }
+    ]
+  },
+  {
+    "id": "8086a08c-d5d6-4e5e-88d7-a0f429a119aa",
+    "title": "Settlement agreement — Castellan Freight Ltd and Brenner Logistik GmbH",
+    "type": "settlement",
+    "pages": 4,
+    "uploadedAt": "2026-09-21T17:05:00Z",
+    "uploadedBy": "9827c4e1-cac8-4824-9872-b7c7f48f4e5c",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "3.1",
+        "title": "Release covers unknown claims",
+        "severity": "high",
+        "excerpt": "Each Party releases the other from all claims, whether known or unknown, arising from any dealings between them.",
+        "explanation": "The release goes beyond the dispute being settled and waives claims nobody has found yet. Limit it to claims arising from the 2025 haulage contract."
+      },
+      {
+        "clause": "7.2",
+        "title": "Confidentiality without exceptions",
+        "severity": "low",
+        "excerpt": "The Parties shall not disclose the existence or terms of this Agreement to any person.",
+        "explanation": "The client must still tell its auditors, insurers and tax authorities. Add the usual exceptions for advisers, regulators and disclosures required by law."
+      }
+    ]
+  },
+  {
+    "id": "2a5580ec-4e9d-4682-b521-4c55a7802fb9",
+    "title": "Master services agreement — Altamira Hotels S.L.",
+    "type": "services",
+    "pages": 36,
+    "uploadedAt": "2026-09-23T09:35:00Z",
+    "uploadedBy": "9e13ae7a-33c5-4058-9264-b23203b4c1ff",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "2.3",
+        "title": "Scope of services is open-ended",
+        "severity": "high",
+        "excerpt": "The Supplier shall provide the Services and any other services reasonably necessary for the operation of the Customer's hotels.",
+        "explanation": "The catch-all words make the client responsible for anything the hotels need, at the agreed price. Delete them and tie the scope to the services described in each statement of work."
+      },
+      {
+        "clause": "3.1",
+        "title": "Customer can change statements of work alone",
+        "severity": "medium",
+        "excerpt": "The Customer may vary any Statement of Work by written notice to the Supplier.",
+        "explanation": "Changes could add work without extra pay. Require a change request agreed by both sides, with its effect on price and timing."
+      },
+      {
+        "clause": "5.4",
+        "title": "Invoices paid after 90 days",
+        "severity": "medium",
+        "excerpt": "The Customer shall pay each undisputed invoice within 90 days of receipt.",
+        "explanation": "Ninety days is long and may breach late-payment rules between businesses. Ask for 30 days, with interest on late payments."
+      },
+      {
+        "clause": "5.6",
+        "title": "Set-off across all contracts",
+        "severity": "low",
+        "excerpt": "The Customer may set off against any sum due to the Supplier any amount owed by the Supplier under any contract.",
+        "explanation": "The customer could hold back payment over unrelated disputes. Limit set-off to undisputed amounts under this agreement."
+      },
+      {
+        "clause": "6.2",
+        "title": "Prices fixed for five years",
+        "severity": "medium",
+        "excerpt": "The Charges shall remain fixed for the Initial Term of five years.",
+        "explanation": "Wages and licence costs will rise over five years. Add an annual adjustment, for example in line with the consumer price index."
+      },
+      {
+        "clause": "7.1",
+        "title": "Service credits have no ceiling",
+        "severity": "high",
+        "excerpt": "For each Service Level failure, the Supplier shall credit the amount set out in Schedule 3.",
+        "explanation": "Uncapped credits could wipe out the client's margin in one bad month. Cap them at 10 to 15% of the monthly charges and make them the only remedy for service-level failures."
+      },
+      {
+        "clause": "7.5",
+        "title": "Service levels apply from day one",
+        "severity": "low",
+        "excerpt": "The Service Levels shall apply from the Effective Date.",
+        "explanation": "The client needs time to take over the hotels' systems. Agree a stabilisation period of about three months before credits apply."
+      },
+      {
+        "clause": "9.1",
+        "title": "Acceptance at the customer's sole discretion",
+        "severity": "medium",
+        "excerpt": "Deliverables shall be deemed accepted only when the Customer confirms in writing that they are satisfactory.",
+        "explanation": "The customer could delay payment by never confirming. Add objective acceptance criteria and deemed acceptance after 10 working days without a reasoned rejection."
+      },
+      {
+        "clause": "11.2",
+        "title": "All IP passes to the customer, including existing tools",
+        "severity": "high",
+        "excerpt": "All Intellectual Property Rights in any materials used or created in providing the Services shall vest in the Customer.",
+        "explanation": "This would hand over the client's own software and know-how, which it uses for other customers. Keep existing IP with the client and grant the customer a licence to use it for the services."
+      },
+      {
+        "clause": "12.1",
+        "title": "Liability is unlimited",
+        "severity": "high",
+        "excerpt": "Nothing in this Agreement shall limit the Supplier's liability.",
+        "explanation": "With hotel revenue at stake every day, one incident could exceed the value of the whole contract. Agree an overall cap of 100 to 150% of the annual charges, and exclude loss of profit."
+      },
+      {
+        "clause": "12.4",
+        "title": "Indemnity for every third-party claim",
+        "severity": "medium",
+        "excerpt": "The Supplier shall indemnify the Customer against all claims by guests, employees or any third party connected with the Services.",
+        "explanation": "The indemnity applies even when the customer caused the loss. Limit it to claims caused by the client's breach or negligence, within the liability cap."
+      },
+      {
+        "clause": "14.3",
+        "title": "Data processing schedule is missing",
+        "severity": "medium",
+        "excerpt": "The Parties shall comply with the data processing terms set out in Schedule 7.",
+        "explanation": "Schedule 7 is not attached, and the client will handle guests' personal data. Attach a data processing agreement before signing."
+      },
+      {
+        "clause": "15.1",
+        "title": "Consent needed for every subcontractor",
+        "severity": "low",
+        "excerpt": "The Supplier shall not subcontract any part of the Services without the Customer's prior written consent.",
+        "explanation": "The client already relies on hosting and support partners. List the approved subcontractors in a schedule and allow changes on notice."
+      },
+      {
+        "clause": "16.2",
+        "title": "Termination for convenience without compensation",
+        "severity": "high",
+        "excerpt": "The Customer may terminate this Agreement at any time on 30 days' notice.",
+        "explanation": "The client invests in the first year and recovers it over five. Ask for longer notice and a termination fee covering unrecovered set-up costs."
+      },
+      {
+        "clause": "16.5",
+        "title": "Exit assistance is unpaid",
+        "severity": "medium",
+        "excerpt": "On termination, the Supplier shall provide all assistance required to transfer the Services to a replacement supplier.",
+        "explanation": "Handing over to a new supplier can take months. Limit it to a defined exit plan, charged at the rates in the price schedule."
+      },
+      {
+        "clause": "17.1",
+        "title": "Step-in right without conditions",
+        "severity": "medium",
+        "excerpt": "The Customer may take over the performance of any Service whenever it considers it necessary.",
+        "explanation": "Step-in should be for serious failures only. Set clear triggers, limit the period, and suspend the service levels while the customer is in control."
+      },
+      {
+        "clause": "18.2",
+        "title": "Non-solicitation binds only the supplier",
+        "severity": "low",
+        "excerpt": "The Supplier shall not solicit or employ any employee of the Customer during the term and for 12 months after.",
+        "explanation": "The customer could hire the client's engineers who know its systems. Make the clause mutual."
+      },
+      {
+        "clause": "19.1",
+        "title": "Benchmarking can force price cuts",
+        "severity": "medium",
+        "excerpt": "If a benchmark shows the Charges exceed the market rate, the Supplier shall reduce them accordingly.",
+        "explanation": "A benchmark against a narrow sample could cut prices mid-term. Agree the benchmarker and the comparison group, allow it at most every two years, and cap any reduction."
+      },
+      {
+        "clause": "21.3",
+        "title": "Force majeure excludes cyber attacks",
+        "severity": "medium",
+        "excerpt": "Force majeure shall not include any failure of the Supplier's systems, including as a result of cyber attacks.",
+        "explanation": "A large attack on a cloud provider could stop the services through no fault of the client. Cover third-party attacks that reasonable security measures could not prevent."
+      },
+      {
+        "clause": "24.1",
+        "title": "Disputes go straight to court abroad",
+        "severity": "low",
+        "excerpt": "Any dispute shall be submitted exclusively to the courts of Madrid.",
+        "explanation": "Litigating abroad is slow and costly for the client. Add an escalation step between senior managers, then mediation, and consider arbitration in a neutral seat."
+      }
+    ]
+  },
+  {
+    "id": "25b142ab-25d4-483b-a0bd-5323b23534dc",
+    "title": "Data processing agreement — Pulsewave Health Ltd",
+    "type": "dpa",
+    "pages": 10,
+    "uploadedAt": "2026-10-01T11:20:00Z",
+    "uploadedBy": "b5f1ce9b-6068-46c3-b93e-d4a434c3f62f",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "4.2",
+        "title": "Processor may use data for its own products",
+        "severity": "high",
+        "excerpt": "The Processor may use Personal Data in anonymised or aggregated form to improve its products and services.",
+        "explanation": "Using health data for its own purposes goes beyond processing on the client's instructions, and anonymising health data properly is hard. Remove the clause, or require prior written approval and a documented method."
+      },
+      {
+        "clause": "7.1",
+        "title": "Breaches reported within seven days",
+        "severity": "high",
+        "excerpt": "The Processor shall notify the Controller of a Personal Data Breach within seven days of becoming aware of it.",
+        "explanation": "The client usually has 72 hours to notify the regulator, so seven days is too late. Require notice without undue delay, and in any case within 24 to 48 hours."
+      },
+      {
+        "clause": "9.3",
+        "title": "Audits replaced by a certificate",
+        "severity": "medium",
+        "excerpt": "The Controller's audit rights are satisfied by the Processor's most recent third-party certification report.",
+        "explanation": "A certificate may not cover the services the client uses. Keep the right to ask questions, and to audit on reasonable notice when the report is not enough."
+      },
+      {
+        "clause": null,
+        "title": "Sub-processors are not listed",
+        "severity": "medium",
+        "excerpt": null,
+        "explanation": "The agreement allows sub-processors but does not name them or say where they process data. Attach the current list with locations, and require notice and a right to object before any change."
+      }
+    ]
+  },
+  {
+    "id": "1e745cf7-2839-4a37-a548-f8cfd13b4cc7",
+    "title": "Agency agreement — Lumen Sports Management Ltd",
+    "type": "agency",
+    "pages": 8,
+    "uploadedAt": "2026-10-05T15:00:00Z",
+    "uploadedBy": "3d6b497a-b7a1-4aa4-9c4b-3701b43e095a",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "4.1",
+        "title": "Commission on renewals forever",
+        "severity": "high",
+        "excerpt": "The Agent shall be entitled to commission on all contracts signed during the term and on any renewal or extension of them, whenever signed.",
+        "explanation": "The agency could take a share of renewals signed years later without doing any work. Limit commission after the end to contracts the agent negotiated, signed within six months."
+      },
+      {
+        "clause": "2.3",
+        "title": "Exclusive for every activity, worldwide",
+        "severity": "medium",
+        "excerpt": "The Client appoints the Agent as its exclusive representative for all commercial, media and sporting activities worldwide.",
+        "explanation": "The client cannot accept even a small local deal on its own. Exclude charity work and deals the client finds itself."
+      },
+      {
+        "clause": "10.2",
+        "title": "Five years with no way out",
+        "severity": "low",
+        "excerpt": "This Agreement shall continue for five years and may not be terminated before then except for material breach.",
+        "explanation": "Five years is long for a sporting career. Ask for a shorter term, or a right to end it if the agent does not secure a minimum level of income."
+      }
+    ]
+  },
+  {
+    "id": "d3bdb0d5-6656-48ae-9fe4-5f6ca852ebdf",
+    "title": "Construction contract — Riverside Library extension, Ghent",
+    "type": "construction",
+    "pages": 34,
+    "uploadedAt": "2026-10-08T08:15:00Z",
+    "uploadedBy": "2a8b8e3f-d544-4252-9a81-0cefdbb9ff34",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "12.1",
+        "title": "Delay damages capped too low",
+        "severity": "high",
+        "excerpt": "Liquidated damages for delay shall not exceed 2% of the Contract Sum.",
+        "explanation": "Two percent will not cover the cost of a library opening months late. Raise the cap to 10% and keep the right to terminate once the cap is reached."
+      },
+      {
+        "clause": "8.4",
+        "title": "Extra time for any delay",
+        "severity": "medium",
+        "excerpt": "The Contractor shall be entitled to an extension of time for any delay to the Works not caused by the Contractor.",
+        "explanation": "Weather and supply shortages would let the contractor finish late without paying delay damages. List the events that give more time, and require notice within 14 days."
+      },
+      {
+        "clause": "15.2",
+        "title": "Retention released at completion",
+        "severity": "medium",
+        "excerpt": "The Retention shall be released in full upon Practical Completion.",
+        "explanation": "Releasing it all at completion leaves no security for defects found in the first year. Release half at completion and half at the end of the defects period."
+      },
+      {
+        "clause": "20.1",
+        "title": "Design responsibility is unclear",
+        "severity": "medium",
+        "excerpt": "The Contractor shall complete the design of the Works in accordance with the Employer's Requirements.",
+        "explanation": "It is not clear who answers for the parts already designed by the client's architect. State that the contractor takes responsibility for the whole design, backed by professional indemnity insurance."
+      }
+    ]
+  },
+  {
+    "id": "2b3da16d-f739-4a46-abbb-f271967ca4eb",
+    "title": "Share purchase agreement — Kestrel Microsystems Ltd",
+    "type": "purchase",
+    "pages": 40,
+    "uploadedAt": "2026-10-13T13:50:00Z",
+    "uploadedBy": "9827c4e1-cac8-4824-9872-b7c7f48f4e5c",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "6.2",
+        "title": "Warranties limited to what the seller happens to know",
+        "severity": "high",
+        "excerpt": "Each Warranty is given only so far as the Seller is aware, having made no enquiries.",
+        "explanation": "Awareness without enquiry lets the seller avoid liability by not asking. Remove the qualifier from key warranties, or define awareness as after due enquiry of named managers."
+      },
+      {
+        "clause": "9.1",
+        "title": "No escrow for warranty claims",
+        "severity": "high",
+        "excerpt": "The Purchase Price shall be paid in full in cash at Completion.",
+        "explanation": "If a claim arises, the client would have to chase several individual sellers. Hold back 10 to 15% of the price in escrow for the claims period."
+      },
+      {
+        "clause": "7.1",
+        "title": "Claims period of only 12 months",
+        "severity": "medium",
+        "excerpt": "The Seller shall not be liable for any claim unless notified within 12 months of Completion.",
+        "explanation": "One year may not include a full audit cycle. Ask for 24 months for general warranties, and the statutory limitation period for tax."
+      },
+      {
+        "clause": "7.3",
+        "title": "High threshold before any claim",
+        "severity": "medium",
+        "excerpt": "No claim may be brought unless the aggregate amount of all claims exceeds 5% of the Purchase Price.",
+        "explanation": "At 5%, many real losses would never be recovered. Ask for a threshold of 0.5 to 1%, after which the full amount is recoverable."
+      },
+      {
+        "clause": "4.5",
+        "title": "Earn-out based on figures the sellers control",
+        "severity": "medium",
+        "excerpt": "The Earn-Out shall be calculated on the audited EBITDA of the Company for the financial year 2027.",
+        "explanation": "The sellers stay on as managers and can shift costs between years. Fix the accounting policies, exclude one-off items, and keep the decisions that drive EBITDA with the client."
+      }
+    ]
+  },
+  {
+    "id": "1ad24b81-508a-45b5-917a-2651ea965766",
+    "title": "Maintenance agreement — Hydra Elevators N.V.",
+    "type": "maintenance",
+    "pages": 6,
+    "uploadedAt": "2026-10-16T10:30:00Z",
+    "uploadedBy": "3d6b497a-b7a1-4aa4-9c4b-3701b43e095a",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "3.2",
+        "title": "Response time is not guaranteed",
+        "severity": "medium",
+        "excerpt": "The Contractor will use reasonable endeavours to attend breakdowns within 24 hours.",
+        "explanation": "Someone trapped in a lift cannot wait a day. Require attendance within one hour for entrapments and four hours for other breakdowns, with service credits."
+      },
+      {
+        "clause": "6.1",
+        "title": "Parts charged on top of the fixed fee",
+        "severity": "low",
+        "excerpt": "The Maintenance Fee covers labour only. Parts shall be charged at the Contractor's list prices.",
+        "explanation": "Open-ended parts costs make the budget unpredictable. Include wear parts in the fee, or agree a discount on list prices and a yearly cap."
+      }
+    ]
+  },
+  {
+    "id": "5cabd3e2-e29e-4f2e-ae8b-3164f9c3fcf4",
+    "title": "IP assignment agreement — Kanso Studio",
+    "type": "ip",
+    "pages": 5,
+    "uploadedAt": "2026-10-20T14:45:00Z",
+    "uploadedBy": "b5f1ce9b-6068-46c3-b93e-d4a434c3f62f",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "2.1",
+        "title": "Only the final designs are assigned",
+        "severity": "high",
+        "excerpt": "The Designer assigns to the Company all rights in the Final Designs.",
+        "explanation": "Sketches, drafts and source files stay with the studio, so the client could not adapt the brand later. Assign all work product, including drafts and editable source files."
+      },
+      {
+        "clause": "5.3",
+        "title": "Moral rights are not waived",
+        "severity": "medium",
+        "excerpt": "The Designer retains all moral rights in the Designs.",
+        "explanation": "The designer could object to changes or insist on being credited. Ask for a waiver, or a promise not to assert moral rights, as far as the law allows."
+      },
+      {
+        "clause": "3.2",
+        "title": "Rights pass only on full payment",
+        "severity": "low",
+        "excerpt": "The assignment shall take effect only upon payment in full of the Fee.",
+        "explanation": "This is common, but the client should pay the full fee on delivery and get a written confirmation that the rights have passed."
+      }
+    ]
+  },
+  {
+    "id": "a9c8f732-85b6-4e69-8c77-a6d996d159ca",
+    "title": "Sponsorship agreement — Velocity Cycling Club",
+    "type": "sponsorship",
+    "pages": 7,
+    "uploadedAt": "2026-10-23T16:20:00Z",
+    "uploadedBy": "7659a86f-ed99-45d3-8aa0-6d38a8a8a221",
+    "supersedes": null,
+    "findings": [
+      {
+        "clause": "9.1",
+        "title": "No way out after a doping scandal",
+        "severity": "high",
+        "excerpt": "The Sponsor may terminate this Agreement only if the Club becomes insolvent.",
+        "explanation": "A doping case would damage the client's brand, with no way out of the deal. Add a morality clause allowing termination and a refund if the club or its riders bring the sponsor into disrepute."
+      },
+      {
+        "clause": "4.2",
+        "title": "Logo placement is not specified",
+        "severity": "low",
+        "excerpt": "The Club shall display the Sponsor's logo on its kit and materials.",
+        "explanation": "The club could put the logo anywhere, at any size. Attach a branding schedule with positions, sizes and the events covered."
+      }
+    ]
+  }
+]

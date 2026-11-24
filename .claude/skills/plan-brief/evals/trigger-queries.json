@@ -1,0 +1,22 @@
+[
+  {"query": "ok so I want to replace the 1s polling for running reviews with Server-Sent Events. can you make a plan? api and web both change and I'd like it split so parts can run in parallel", "should_trigger": true},
+  {"query": "plan this: per-document retry limit, no more than 3 failed reviews per doc per UTC day, 409 too_many_failures on the 4th request. break it into phases", "should_trigger": true},
+  {"query": "We'll need to move from SQLite to Postgres at some point. Before touching anything: what are the phases, and what would each one deliver?", "should_trigger": true},
+  {"query": "break this down for me: lawyers should be able to upload their own contracts (markdown only for now) and then request a review of them. touches api, web and the seed", "should_trigger": true},
+  {"query": "the plan you wrote earlier for the quota reset change is in docs/plans/quota-reset.md. rewrite it so I can actually follow it phase by phase, with a table at the top", "should_trigger": true},
+  {"query": "phase 1 of the failure-reasons plan is done, both sessions reported back. review their branches against the plan and tell me if we can start phase 2", "should_trigger": true},
+  {"query": "I'd like a Cancel button on a running review plus POST /api/reviews/:id/cancel. Don't write code yet, I want a plan I can approve first, with the risks you see", "should_trigger": true},
+  {"query": "make a plan for storing the deadline on each review row instead of reading reviewDeadlineMs at startup (it's in the README limitations). which files change, in what order, and how do we prove it works?", "should_trigger": true},
+  {"query": "how should we split the work to add a second workspace to the seed data and make every page workspace-aware? give me steps I can hand to separate sessions", "should_trigger": true},
+  {"query": "plan out the claude reviewer changes: name each failure reason (budget_exceeded, refused), show them in the web app, and include the migration for the failure_reason CHECK constraint", "should_trigger": true},
+  {"query": "how does the admission transaction decide between plan_exhausted and slots_reserved? walk me through review-service.ts", "should_trigger": false},
+  {"query": "is polling every second or SSE the better choice for this app? just your opinion in a few lines, no plan needed", "should_trigger": false},
+  {"query": "what does PLAN.md say about the race conditions in section 3? summarize it in a few bullets", "should_trigger": false},
+  {"query": "fix the typo in README.md, 'recieve' should be 'receive' in the endpoints section", "should_trigger": false},
+  {"query": "the 'retry at exactly 60,000 ms' test fails on my machine since I changed api/config.json, can you figure out why?", "should_trigger": false},
+  {"query": "add a test that a finding at 59,999 ms is applied for the claude reviewer too, right now it's only covered for the fake one", "should_trigger": false},
+  {"query": "review my uncommitted changes against CLAUDE.md before I commit them", "should_trigger": false},
+  {"query": "how many credits has Firm workspace used on its plan this month, and when does the plan reset?", "should_trigger": false},
+  {"query": "change the copy on the upgrade plan page so it says 'Contact your account manager' instead of showing the pricing table", "should_trigger": false},
+  {"query": "explain the difference between the fake reviewer and the claude reviewer, and which one the tests use", "should_trigger": false}
+]

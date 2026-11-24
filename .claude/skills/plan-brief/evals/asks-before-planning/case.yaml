@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: asks-before-planning
+expected_outcome: |
+  No plan is drafted yet. The reply is a 'Decision needed' message with facts
+  and evidence from the repo, then at most four questions, each with two to
+  four options, a recommended option first, and what happens if the decision waits.

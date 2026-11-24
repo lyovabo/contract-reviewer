@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: multi-phase-plan-branch
+expected_outcome: |
+  A full-format plan with a Branch line naming a plan branch cut from main,
+  phases where the API and web steps run in parallel and README.md/CLAUDE.md
+  are updated in one later step, a finding about the failure_reason CHECK
+  constraint, models per step, an install command in the briefs, and a
+  plan-ready message that asks one approval for the plan, the plan branch,
+  step-branch commits and starting phase 1, and says the repo has no commits yet.

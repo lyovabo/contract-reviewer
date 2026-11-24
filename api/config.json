@@ -1,0 +1,18 @@
+{
+  "reviewDeadlineMs": 60000,
+  "monthlyReviewLimit": 1000,
+  "sessionTtlMs": 30000,
+  "fakeReviewer": {
+    "normalMs": { "min": 5000, "max": 30000 },
+    "slowMs": { "min": 60000, "max": 120000 },
+    "outcomePercent": { "normal": 70, "error": 20, "slow": 10 }
+  },
+  "claudeReviewer": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "thinking": false,
+    "tokenBudget": 30000,
+    "maxTurns": 4,
+    "maxOutputTokens": 8000
+  }
+}
